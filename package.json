@@ -8,7 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "gsap": "^3.4.2"
+  },
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
   }
