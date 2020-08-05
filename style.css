@@ -1,0 +1,22 @@
+.circle {
+	background-color: rgb(91, 91, 182);
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+}
+  
+.square {
+	width: 150px;
+	height: 150px;
+	background-color: rgb(125, 228, 125);
+}
+
+.space {
+	height: 200px;
+}
+
+.box {
+	width: 150px;
+	height: 150px;
+	background-color: rgb(125, 228, 125);
+}
