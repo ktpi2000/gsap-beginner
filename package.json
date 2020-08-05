@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel -d docs index.html"
+    "dev": "parcel index.html",
+    "build": "parcel build index.html -d docs --public-url https://ktpi2000.github.io/gsap-beginner/"
   },
   "author": "",
   "license": "ISC",
